@@ -4,6 +4,8 @@ description: 专为Arduino开发板设计的可视化编程工具
 
 # Block A帮助文档
 
+## ![](.gitbook/assets/image.png)
+
 ## 基于Web Serial的程序烧录
 
 基于WebSerial的，Block A使用JavaScript实现了程序烧录，无需本地助手，且烧录过程更快，更稳定。
