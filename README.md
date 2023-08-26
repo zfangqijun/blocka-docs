@@ -4,7 +4,7 @@ description: 专为Arduino开发板设计的可视化编程工具
 
 # Block A帮助文档
 
-## ![](.gitbook/assets/image.png)
+## ![](<.gitbook/assets/image (1).png>)
 
 ## 基于Web Serial的程序烧录
 
