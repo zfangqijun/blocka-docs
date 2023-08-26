@@ -5,6 +5,7 @@
   * [账户授权](github/zhang-hu-shou-quan.md)
   * [创建并关联项目](github/chuang-jian-bing-guan-lian-xiang-mu.md)
   * [提交并推送](github/ti-jiao-bing-tui-song.md)
+  * [🚧 回滚历史提交（开发中）](github/hui-gun-li-shi-ti-jiao-kai-fa-zhong.md)
 
 ## Group 1
 
