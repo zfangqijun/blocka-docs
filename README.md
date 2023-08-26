@@ -2,9 +2,9 @@
 description: 专为Arduino开发板设计的可视化编程工具
 ---
 
-# Block A帮助文档
+# 🥳 Block A帮助文档
 
-## ![](<.gitbook/assets/image (1).png>)
+[**Beta版本已发布**](https://ba.7z7z.cc/)
 
 ## 基于Web Serial的程序烧录
 
