@@ -17,3 +17,7 @@ description: GitHub
 3. 输入你本次更改的描述，如：新增A积木、修改B积木、删除C积木
 4. 提交并推送
 
+提交成功后，你可以看到提交的历史记录
+
+<figure><img src="../.gitbook/assets/image.png" alt=""><figcaption></figcaption></figure>
+
